@@ -1,0 +1,38 @@
+[
+    {
+      "name": "Bulbasaur",
+      "id": "001"
+    },
+    {
+      "name": "Ivysaur",
+      "id": "002"
+    },
+    {
+      "name": "Venusaur",
+      "id": "003"
+    },
+    {
+      "name": "Charmander",
+      "id": "004"
+    },
+    {
+      "name": "Charmeleon",
+      "id": "005"
+    },
+    {
+      "name": "Charizard",
+      "id": "006"
+    },
+    {
+      "name": "Squirtle",
+      "id": "007"
+    },
+    {
+      "name": "Wartortle",
+      "id": "008"
+    },
+    {
+      "name": "Blastoise",
+      "id": "009"
+    }
+  ]
